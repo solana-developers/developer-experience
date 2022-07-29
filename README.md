@@ -24,6 +24,8 @@ If you contribute to any of the issues, please tag [@jacobvcreech](https://twitt
 
 If you want to build one of the tools, please reach out and we will personally work with you to build it.
 
+Any contribution can help get you started in the Solana ecosystem.
+
 ## I have an idea on how to make Solana Developer Experience better
 
 If you have ideas, please [create an issue](https://github.com/solana-developers/developer-experience/issues/new). We will get them added to the project board!
